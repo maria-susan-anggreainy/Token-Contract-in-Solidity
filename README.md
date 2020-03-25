@@ -6,4 +6,4 @@ The basic idea of this is my contract is that I am creating a token and I give t
 
 In Inheritance.sol , I have require what I have actually the same require statement message send is owner you are not allowed and then burn tokens it must also be the owner and there is a basic architecture of how I can solve this and centralize this in a way with that works with modifiers
 
--Maria Susan Anggreainy-
+
